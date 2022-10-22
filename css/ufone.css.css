@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0%;
+    background-image: url(../assignment7/Ufone-Saudia-Roaming-1920x1080-1.jpg);
+}
+    li, a, button{ 
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 500;
+        font-size: 16px;
+        color: #edf0f2;
+        text-decoration: none;
+    }
+    
+    header{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 30px 10%;
+    }
